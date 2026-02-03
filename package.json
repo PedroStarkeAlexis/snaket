@@ -1,0 +1,12 @@
+{
+  "packageType": "app",
+  "appName": "Hub",
+  "appPath": "index.html",
+  "keys": [
+    "0", "1", "2", "3", "4", "5", "6", "7", "8", "9",
+    "ChUp", "ChDown", "VolumeUp", "VolumeDown", "Mute",
+    "Return", "Exit", "Menu", "Tools", "Info", "Color",
+    "Search", "Extra", "Search", "Guide", "Source"
+  ],
+  "serviceFile": ""
+}
